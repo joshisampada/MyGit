@@ -1,0 +1,185 @@
+1)REST API
+2)Switch statements
+  {a)Simple program using switch case along with executing program
+   b)program without using break along with executing program
+   c)switch statement with String along with executing program
+   d)nested switch statement along with executing program
+   e)using enum in switch statement along with executing program
+   f)using wrapper in switch statement along with executing program}
+3)Gone through Enum concept along with coding
+4)Gone through Wrapper classes in Java
+5)Scanner Class usage for taking input through user
+6)How to take Character input through the end user as there is no direct method available
+7)Java Naming Convensions(for class,method,package,interface,variable,constant) 
+8)Started with OOPs concepts Class & Objects
+  {a)creating class & objects along with coding
+   b)creating class & objects when main is within the class along with coding
+   c)creating class & objects when main is outside the class along with coding}
+9)Ways to initialize the object
+  {a)through reference variable
+   b)through method}
+10)What is Severity along with its types
+11)What is priority along with its types 
+
+-------------------------------------------------
+Task Accomplished,
+1)Gone through Input/Output Streams
+2)Difference between for loop ,while loop, do while loop along with example
+3)Constructors ,when they are called, rules for creating constructor with example
+4)Types of constructor(Default, Parameterized) with example
+
+Pending:
+1)Types of Output & input streams
+2)Json Concepts
+3)Constructor overloading & copy constructor
+-----------------------------------------------------------
+Task Accomplished, 
+1)Done with contructor overloading in java along with the example
+2)Gone through difference b/w constructor & method
+3)Java copy constructor(as there is no direct copy constructor available) by using 
+   {a)constructor along with implementing it
+    b)by assigning values of one object to another}
+4)Use of static keyword along with variable,method,block along with examples
+5)Gone through the concept of retesting
+6)Gone through the concept of regression testing
+
+Pending:
+1)Types of Output & input streams
+2)Json Concepts
+3)what is logj4
+4)testing types with tools for different application(Desktop,web etc)
+
+------------------------------------------------------------------------------------
+1)Done with the inheritance types
+  {a)Single inheritance concept along with coding
+   b)Multilevel inheritance concept along with coding
+   c)Hierarchical inheritance along with coding
+   d)reason why multiple inhetritance is not possible in java}
+
+2)Gone through below concepts
+  
+a)What is Desktop application & testing tools used for it
+  {TestComplete, WinAppDriver, AutoIT, Winium, TestStack.White, Sikuli} 
+   
+b)What is web Application & testing tools used for it
+  {TestComplete, Jmeter, Capybara, Selenium}  
+  
+c)What is Mobile Application & testing tools used for it
+  {Appium, Monkeytalk, Robotium, Experitest, EarlGrey}
+  
+d)What is API Application & testing tools used for it
+  {SoapUI, Postman, RestAssured, JMeter} 
+  
+Pending:
+1)Started with log4j
+2)testing types with tools
+3)Types of Output & input streams
+4)Json Concepts
+	
+-------------------------------------------------------------------
+1)Done with log4j concept
+  {a)what is log4j concept
+   b)why it is used
+   c)3 main concepts in log4j(Logger, Appender, Layout)
+   d)Conversion specifiers(t, p, c etc)
+   e)ways to configure log4j
+     [1)using .properties file
+      2)using .xml file
+      3)using java coding]
+2)By using all 3 ways execute code.
+3)Gone through testing types
+ A]Functional testing
+   {1)Unit, 2)Functional, 3)Integration, 4)System, 5)Smoke}
+ B]Non-Functional testing
+   {1)Performance, 2)Compatibiity, 3)Usability, 4)Globalization}
+
+--------------------------------------------------------------------------
+1)Gone through Aggregation concept with example
+  {1)Why use Aggregation??
+   2)When use Aggregation??
+   3)Implemented the concept with real time example of Employee class & Address class}
+
+2)Done with Method overloading concept
+ {1)Advantage of Method overloading
+  2)Different ways to overload method
+   (i)By changing number of arguments--with example
+    ii)By changing the data type--with example)
+  3)Method overloading with type promotion
+  4)Method overloading with type promotion if matching found
+  5)Method overloading with type promotion in case of ambiguity
+  6)java main method can be overloaded reason)
+
+3)Done with method overriding concept along with implementation
+  (1)Usage of method overriding
+   2)Rules for method overriding
+   3)Implemented the concept with Real time Bank example)
+
+Pending:
+1)Tools for different testing types
+2)Types of Output & input streams
+3)Json Concepts 
+
+------------------------------------------------------------------------------------
+1)Gone through the concept of covariant return type with implementation
+2)Done with the concept of super keyword
+  {1)to refer immediate parent class instance variable
+   2)to invoke parent class method
+   3)to invoke parent class constructor
+   4)implemented in real time example}
+3)gone through the concept of instance initializer block
+{1)what is it?
+ 2)why to use?
+ 3)rules to use it}
+4)Done with concept of final keyword
+   {1)with variable along with example
+    2)with method along with example
+    3)with class along with example}
+5)Gone through concept of runtime polymorphism with implementation
+6)Done with static/dynamic binding
+
+---------------------------------------------------------------------------
+1)Done with the concept of instanceof operator along with example
+2)Gone through the concept of downcasting
+  {a)by using instanceof operator
+   b)without using instanceof operator}
+3)Gone through Abstraction concept
+ {1)abstract class
+  2)abstract method
+  3)implemented real time example}
+Pending:
+1)Tools for different testing types
+2)Types of Output & input streams
+3)Json Concepts  
+
+---------------------------------------------------------------------------------
+1)Gone through the interface concept in java
+ {a)why to use
+  b)relationship b/w class & interface along with implementation
+  c)implemented multiple inheritance in java through interface 
+  d)implemented example for interface inheritance}
+2)Gone through the concepts of networking
+{a)hub b)swiches c)routers d)access points}
+3)Gone through the concept of submarine cable system 
+Pending:
+1)Tools for different testing types
+2)Types of Output & input streams
+3)Json Concepts  	
+
+--------------------------------------------------------
+1)Gone through the Agile Scrum methodology
+  {1)what is product backlog?
+   2)what is sprint??
+   3)what is sprint planning??
+   4)What are the meetings held during Agile process??}
+2)What is the difference between GIT & GITHUB
+ {About the concepts like repository(paid & private), merging, fork, push &
+  pull request)
+Pending Task:
+1)creating repository in github... 
+2)creating firewall template for db server access & web server access
+ 
+
+	 	 	
+  
+		
+    
